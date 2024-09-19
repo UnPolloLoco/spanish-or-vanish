@@ -18,7 +18,7 @@ día tras día == day after day
 vario == several
 enriquecer == to enrich / to make rich
 en cuanto == as soon as
-lanzar == to throw
+lanzar == to launch / to throw
 el horario == schedule
 entretener == to entertain
 la cancha == court / field
@@ -34,3 +34,11 @@ el dueño == owner / landlords
 la prisa == rush
 la aspiradora == vacuum
 soler == to tend to / usually
+el escenario == scenery / stage
+incluso / aun == even
+todavía / aún == still
+la calidad == quality
+el árbitro == referee
+la baraja == card deck
+la butaca == theater seat / armchair
+el campamento de verano == summer camp
